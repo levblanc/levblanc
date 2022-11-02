@@ -9,6 +9,8 @@ from China.
 
 - :seedling: I'm looking for a job as a full stack Smart Contract &
   React.js/Next.js web3 developer.
+  
+- :round_pushpin: [Check out the NFT marketplace (Goerli) I built](https://web3-nft-marketplace-lime.vercel.app/)
 
 - :telescope: I worked as a Senior Software Engineer and contributing to
   frontend and backend for building web applications. I'm comfortable working
