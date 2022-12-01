@@ -22,7 +22,7 @@ from China.
 - :mailbox: Feel free to reach me through
   [![levblanc@gmail.com][email]](mailto:levblanc@gmail.com)
 
-## :hammer_and_wrench: My Skills :
+## :hammer_and_wrench: My Skills:
 
 [![Solidity]](https://soliditylang.org/) [![Hardhat]](https://hardhat.org/)
 [![EthersJS]](https://docs.ethers.io/v5/)
@@ -40,13 +40,23 @@ from China.
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=levblanc&show_icons=true&theme=highcontrast&hide_border=true&title_color=fbaf00&icon_color=fbaf00)
+<p align="center">
+  <a href="https://github.com/levblanc/levblanc/#fire-my-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=levblanc&show_icons=true&theme=highcontrast&hide_border=true&title_color=fbaf00&icon_color=fbaf00" alt="github-stats"/>
+  </a>
+</p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=levblanc&theme=dark&background=000000)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://github.com/levblanc/levblanc/#fire-my-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=levblanc&theme=dark&background=000000" height="165" alt="streak-stats" />
+  </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levblanc&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/levblanc/levblanc/#fire-my-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levblanc&layout=compact&theme=vision-friendly-dark" height="165" alt="top-langs" />
+  </a>
+</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
