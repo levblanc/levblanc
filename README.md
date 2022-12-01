@@ -9,12 +9,14 @@ from China.
 
 - :seedling: I'm looking for a job as a full stack Smart Contract &
   React.js/Next.js web3 developer.
+  
+- :round_pushpin: [Check out the NFT marketplace (Goerli) I built](https://web3-nft-marketplace-lime.vercel.app/)
 
 - :telescope: I worked as a Senior Software Engineer and contributing to
   frontend and backend for building web applications. I'm comfortable working
   with tech stacks like Solidity, Hardhat, JavaScript, React.js/Next.js,
-  Chainlink, Alchemy, Moralis, TheGraph, & IPFS, in a test-driven style .Please
-  see my pinned repos for more details.
+  Chainlink, Alchemy, Moralis, TheGraph, & IPFS, in a test-driven style. **Please
+  see my pinned repos for more details**.
 
 - :zap: Recently I picked guitar as my new hobby. I am actively learning it and
   having so much fun with it.
