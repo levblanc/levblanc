@@ -22,7 +22,7 @@ from China.
   having so much fun with it.
 
 - :mailbox: Feel free to reach me through
-  [![xavier.0x35e81@gmail.com][email]](mailto:xavier.0x35e81@gmail.com)
+  [![levblanc@gmail.com][email]](mailto:levblanc@gmail.com)
 
 ## :hammer_and_wrench: My Skills:
 
@@ -64,7 +64,7 @@ from China.
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [email]:
-  https://img.shields.io/badge/xavier.0x35e81@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white
+  https://img.shields.io/badge/levblanc@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [solidity]:
   https://img.shields.io/badge/solidity-1E1E3F?style=for-the-badge&logo=solidity
 [chainlink]:
